@@ -93,7 +93,7 @@
    background: var(--very-dark-blue)
  }
  
- @media screen and (min-width: 765px) {
+ @media screen and (min-width: 600px) {
 
  
  #container {
